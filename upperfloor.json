@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startLayerUpperFl"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/map.json#startLayerUpperFl"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#startLayerNadine"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/map.json#startLayerNadine"
                 }],
          "type":"tilelayer",
          "visible":true,

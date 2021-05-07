@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startLayerMatze"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/map.json#startLayerMatze"
                 }],
          "type":"tilelayer",
          "visible":true,

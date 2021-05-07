@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"matze.json"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/matze.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"upperfloor.json"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/upperfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"upperfloor.json#startLayerNadineTop"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/upperfloor.json#startLayerNadineTop"
                 }],
          "type":"tilelayer",
          "visible":true,
