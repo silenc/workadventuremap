@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/silenc.github.io\/workadventuremap\/matze.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/thezollvereinboysngirls\/thepub\/matze"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/silenc.github.io\/workadventuremap\/upperfloor.json"
+                 "value":"https:\/\/silenc.github.io\/workadventuremap\/dachgeschoss"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/silenc.github.io\/workadventuremap\/upperfloor.json#startLayerNadineTop"
+                 "value":"https:\/\/play.workadventu.re\/@\/thezollvereinboysngirls\/thepub\/dachgeschoss#startLayerNadineTop"
                 }],
          "type":"tilelayer",
          "visible":true,
