@@ -1,0 +1,15 @@
+{ "backgroundcolor":"#424242",
+ "columns":8,
+ "image":"tiles_interior.gif",
+ "imageheight":736,
+ "imagewidth":256,
+ "margin":0,
+ "name":"tiles_interior",
+ "spacing":0,
+ "tilecount":184,
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
