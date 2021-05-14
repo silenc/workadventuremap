@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapSmallOben.json#enterUnten"
+                 "value":"mapSmallMatze.json#enterUnten"
                 }],
          "type":"tilelayer",
          "visible":true,

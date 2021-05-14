@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapSmallOben.json#enterMatze"
+                 "value":"mapSmall.json#enterMatze"
                 }],
          "type":"tilelayer",
          "visible":true,
