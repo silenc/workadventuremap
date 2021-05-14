@@ -107,7 +107,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapSmall.json#enterNadine"
+                 "value":"https:\/\/play.workadventu.re\/@\/thezollvereinboysngirls\/thepub\/house27#enterNadine"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,7 +125,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapSmall.json#enterOben"
+                 "value":"https:\/\/play.workadventu.re\/@\/thezollvereinboysngirls\/thepub\/house27#enterOben"
                 }],
          "type":"tilelayer",
          "visible":true,

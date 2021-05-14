@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapSmall.json#enterMatze"
+                 "value":"https:\/\/play.workadventu.re\/@\/thezollvereinboysngirls\/thepub\/house27#enterMatze"
                 }],
          "type":"tilelayer",
          "visible":true,
